@@ -25,6 +25,9 @@ function showMessage() {
 
     // Membuat hati berjatuhan
     createHearts();
+
+    const musik = document.getElementById("musik");
+musik.play();
 }
 
 
